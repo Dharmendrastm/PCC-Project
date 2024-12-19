@@ -25,5 +25,3 @@ Advantages of the Password Complexity Checker
 6.	Easy Integration: The tool can be embedded in websites, applications, and security tools to promote better password practices.
 Conclusion
 This beginner-friendly cybersecurity project not only sharpens skills in Python and GUI development but also addresses a critical aspect of security—password strength. By ensuring users adopt stronger passwords, this tool helps in reducing vulnerabilities associated with weak credentials.
- 
-GUI.png
